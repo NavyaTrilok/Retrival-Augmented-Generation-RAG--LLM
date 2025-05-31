@@ -24,6 +24,8 @@ Generating
 
 <img width="955" alt="image" src="https://github.com/user-attachments/assets/e074e0af-9107-4e29-9d33-72789cdc3ba8" />
 
+**Testing the application with different prompts** 
+
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/ffe078ed-38db-45a1-b131-bed67a66e1b9" />
 
 <img width="945" alt="image" src="https://github.com/user-attachments/assets/5f73bd17-eec6-4675-858e-c4fd6b3e6061" />
