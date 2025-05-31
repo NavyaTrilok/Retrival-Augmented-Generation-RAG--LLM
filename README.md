@@ -13,7 +13,7 @@ Embedding
 
 Indexing and Storing
 
-retrieving
+Retrieving
 
 Generating
 
