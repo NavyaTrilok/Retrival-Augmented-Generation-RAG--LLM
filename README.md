@@ -6,10 +6,15 @@ I have built a POC here using pytorch. I have used a text file that has data on 
 The steps every RAG application follows -
 
 Ingesting
+
 Chunking
+
 Embedding
+
 Indexing and Storing
+
 retrieving
+
 Generating
 
 <img width="936" alt="image" src="https://github.com/user-attachments/assets/92939f08-cddf-49c7-be32-75a428b9f592" />
